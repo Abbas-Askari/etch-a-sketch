@@ -1,0 +1,17 @@
+.grid {
+  border: 1px solid black;
+  width: 600px;
+  height: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 16px auto;
+}
+
+.cell {
+  /* flex: 1; */
+}
+
+button {
+  margin: 0 auto;
+  display: block;
+}
